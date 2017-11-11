@@ -1,2 +1,3 @@
 # hello-world
 just arrived and...
+I'm typing my first words here. I sincerely hope to learn code here, and meet collaborators. 
